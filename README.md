@@ -18,3 +18,5 @@ A Power BI dashboard analyzing coffee sales trends across US, UK, and other regi
 - Power BI
 - Microsoft Excel
 - Kaggle Datasets
+## 📸 Dashboard Preview
+![Dashboard Preview](Screenshot%202026-04-14%20182454.png)
